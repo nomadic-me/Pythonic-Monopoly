@@ -6,6 +6,8 @@ Challenge / Project from Fintech Bootcamp for Data Visualization Week
 
 * [dashboard.ipynb](dashboard.ipynb)
 * [rental_analysis.ipynb](rental_analysis.ipynb)
+  *  [Output with Screenshots](rental_analysis/rental_analysis.md)
+
 
 ## Instructions
 
