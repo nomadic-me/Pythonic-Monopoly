@@ -204,7 +204,7 @@ dashboard.servable()
 ![png](Dash_Output_Map.png)
 
 ![png](Dash_Output_AvgHouse.png)
-
+![png](output_Dwellingtypesforyear.png)
 
 
 

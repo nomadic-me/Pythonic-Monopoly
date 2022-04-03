@@ -199,11 +199,11 @@ dashboard.servable()
 ```
 
 
-![png](Images/Dash_Output_Intro.png)
+![png](Dash_Output_Intro.png)
 
-![png](Images/Dash_Output_Map.png)
+![png](Dash_Output_Map.png)
 
-![png](Images/Dash_Output_AvgHouse.png)
+![png](Dash_Output_AvgHouse.png)
 
 
 
