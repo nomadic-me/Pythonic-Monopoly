@@ -494,47 +494,6 @@ pn_shelter_costs_column
 ```
 
 
-
-
-
-
-<div id='2287'>
-
-
-
-
-
-  <div class="bk-root" id="5e443710-80ab-4b99-9364-3ab50db06a20" data-root-id="2287"></div>
-</div>
-<script type="application/javascript">(function(root) {
-  function embed_document(root) {
-    var docs_json = {"2d821a06-5fd5-4990-acb8-5a429fe41660":{"defs":[{"extends":null,"module":null,"name":"ReactiveHTML1","overrides":[],"properties":[]},{"extends":null,"module":null,"name":"FlexBox1","overrides":[],"properties":[{"default":"flex-start","kind":null,"name":"align_content"},{"default":"flex-start","kind":null,"name":"align_items"},{"default":"row","kind":null,"name":"flex_direction"},{"default":"wrap","kind":null,"name":"flex_wrap"},{"default":"flex-start","kind":null,"name":"justify_content"}]},{"extends":null,"module":null,"name":"TemplateActions1","overrides":[],"properties":[{"default":0,"kind":null,"name":"open_modal"},{"default":0,"kind":null,"name":"close_modal"}]},{"extends":null,"module":null,"name":"MaterialTemplateActions1","overrides":[],"properties":[{"default":0,"kind":null,"name":"open_modal"},{"default":0,"kind":null,"name":"close_modal"}]}],"roots":{"references":[{"attributes":{"client_comm_id":"cc025efba49e49e6ac63d05c1442c579","comm_id":"c6b361e5b93041c0a903380222949aa2","plot_id":"2287"},"id":"2291","type":"panel.models.comm_manager.CommManager"},{"attributes":{"children":[{"id":"2288"},{"id":"2289"},{"id":"2290"}],"margin":[0,0,0,0],"name":"Column04905"},"id":"2287","type":"Column"},{"attributes":{"margin":[5,5,5,5],"name":"Str04901","text":"&lt;pre&gt;AxesSubplot(0.125,0.125;0.775x0.755)&lt;/pre&gt;"},"id":"2289","type":"panel.models.markup.HTML"},{"attributes":{"margin":[5,5,5,5],"name":"Str04903","text":"&lt;pre&gt;AxesSubplot(0.125,0.125;0.775x0.755)&lt;/pre&gt;"},"id":"2290","type":"panel.models.markup.HTML"},{"attributes":{"css_classes":["markdown"],"margin":[5,5,5,5],"name":"Markdown04899","text":"&lt;h2&gt;Average monthly shelter costs&lt;/h2&gt;"},"id":"2288","type":"panel.models.markup.HTML"}],"root_ids":["2287","2291"]},"title":"Bokeh Application","version":"2.4.1"}};
-    var render_items = [{"docid":"2d821a06-5fd5-4990-acb8-5a429fe41660","root_ids":["2287"],"roots":{"2287":"5e443710-80ab-4b99-9364-3ab50db06a20"}}];
-    root.Bokeh.embed.embed_items_notebook(docs_json, render_items);
-  }
-  if (root.Bokeh !== undefined && root.Bokeh.Panel !== undefined && ( root['Plotly'] !== undefined)) {
-    embed_document(root);
-  } else {
-    var attempts = 0;
-    var timer = setInterval(function(root) {
-      if (root.Bokeh !== undefined && root.Bokeh.Panel !== undefined && (root['Plotly'] !== undefined)) {
-        clearInterval(timer);
-        embed_document(root);
-      } else if (document.readyState == "complete") {
-        attempts++;
-        if (attempts > 200) {
-          clearInterval(timer);
-          console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
-        }
-      }
-    }, 25, root)
-  }
-})(window);</script>
-
-
-
-
-    
 ![png](output_22_2.png)
     
 
